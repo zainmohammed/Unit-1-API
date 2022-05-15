@@ -1,0 +1,39 @@
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Debug\BLL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Debug\BLL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Debug\BOL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Debug\DAL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Debug\EntityFramework.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Debug\BOL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Debug\DAL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Debug\DAL.dll.config
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Debug\EntityFramework.xml
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\obj\Debug\BLL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\obj\Debug\BLL.pdb
+E:\ezApi\EzDelivery\BLL\bin\Debug\BLL.dll
+E:\ezApi\EzDelivery\BLL\bin\Debug\BLL.pdb
+E:\ezApi\EzDelivery\BLL\bin\Debug\BOL.dll
+E:\ezApi\EzDelivery\BLL\bin\Debug\DAL.dll
+E:\ezApi\EzDelivery\BLL\bin\Debug\EntityFramework.dll
+E:\ezApi\EzDelivery\BLL\bin\Debug\BOL.pdb
+E:\ezApi\EzDelivery\BLL\bin\Debug\DAL.pdb
+E:\ezApi\EzDelivery\BLL\bin\Debug\EntityFramework.xml
+E:\ezApi\EzDelivery\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ezApi\EzDelivery\BLL\obj\Debug\BLL.dll
+E:\ezApi\EzDelivery\BLL\obj\Debug\BLL.pdb
+C:\Arif\EzDelivery\BLL\bin\Debug\BLL.dll
+C:\Arif\EzDelivery\BLL\bin\Debug\BLL.pdb
+C:\Arif\EzDelivery\BLL\bin\Debug\BOL.dll
+C:\Arif\EzDelivery\BLL\bin\Debug\DAL.dll
+C:\Arif\EzDelivery\BLL\bin\Debug\EntityFramework.dll
+C:\Arif\EzDelivery\BLL\bin\Debug\BOL.pdb
+C:\Arif\EzDelivery\BLL\bin\Debug\DAL.pdb
+C:\Arif\EzDelivery\BLL\bin\Debug\DAL.dll.config
+C:\Arif\EzDelivery\BLL\bin\Debug\EntityFramework.xml
+C:\Arif\EzDelivery\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Arif\EzDelivery\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Arif\EzDelivery\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Arif\EzDelivery\BLL\obj\Debug\BLL.dll
+C:\Arif\EzDelivery\BLL\obj\Debug\BLL.pdb

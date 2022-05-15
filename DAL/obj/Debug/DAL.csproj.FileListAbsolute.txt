@@ -1,0 +1,40 @@
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\bin\Debug\DAL.dll.config
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\bin\Debug\DAL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\bin\Debug\DAL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\bin\Debug\BOL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\bin\Debug\EntityFramework.dll
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\bin\Debug\BOL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\bin\Debug\EntityFramework.xml
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\obj\Debug\DAL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\DAL\obj\Debug\DAL.pdb
+E:\ezApi\EzDelivery\DAL\bin\Debug\DAL.dll.config
+E:\ezApi\EzDelivery\DAL\bin\Debug\DAL.dll
+E:\ezApi\EzDelivery\DAL\bin\Debug\DAL.pdb
+E:\ezApi\EzDelivery\DAL\bin\Debug\BOL.dll
+E:\ezApi\EzDelivery\DAL\bin\Debug\EntityFramework.dll
+E:\ezApi\EzDelivery\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\ezApi\EzDelivery\DAL\bin\Debug\BOL.pdb
+E:\ezApi\EzDelivery\DAL\bin\Debug\EntityFramework.xml
+E:\ezApi\EzDelivery\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\ezApi\EzDelivery\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\ezApi\EzDelivery\DAL\obj\Debug\DAL.dll
+E:\ezApi\EzDelivery\DAL\obj\Debug\DAL.pdb
+C:\Arif\EzDelivery\DAL\bin\Debug\DAL.dll.config
+C:\Arif\EzDelivery\DAL\bin\Debug\DAL.dll
+C:\Arif\EzDelivery\DAL\bin\Debug\DAL.pdb
+C:\Arif\EzDelivery\DAL\bin\Debug\BOL.dll
+C:\Arif\EzDelivery\DAL\bin\Debug\EntityFramework.dll
+C:\Arif\EzDelivery\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Arif\EzDelivery\DAL\bin\Debug\BOL.pdb
+C:\Arif\EzDelivery\DAL\bin\Debug\EntityFramework.xml
+C:\Arif\EzDelivery\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Arif\EzDelivery\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Arif\EzDelivery\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Arif\EzDelivery\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Arif\EzDelivery\DAL\obj\Debug\DAL.dll
+C:\Arif\EzDelivery\DAL\obj\Debug\DAL.pdb

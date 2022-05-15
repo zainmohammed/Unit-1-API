@@ -1,0 +1,28 @@
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Release\BLL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Release\BLL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Release\BOL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Release\DAL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Release\EntityFramework.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Release\BOL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Release\DAL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Release\DAL.dll.config
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\bin\Release\EntityFramework.xml
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\obj\Release\BLL.csproj.CopyComplete
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\obj\Release\BLL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BLL\obj\Release\BLL.pdb
+C:\Arif\EzDelivery\BLL\bin\Release\BLL.dll
+C:\Arif\EzDelivery\BLL\bin\Release\BLL.pdb
+C:\Arif\EzDelivery\BLL\bin\Release\BOL.dll
+C:\Arif\EzDelivery\BLL\bin\Release\DAL.dll
+C:\Arif\EzDelivery\BLL\bin\Release\EntityFramework.dll
+C:\Arif\EzDelivery\BLL\bin\Release\BOL.pdb
+C:\Arif\EzDelivery\BLL\bin\Release\DAL.pdb
+C:\Arif\EzDelivery\BLL\bin\Release\DAL.dll.config
+C:\Arif\EzDelivery\BLL\bin\Release\EntityFramework.xml
+C:\Arif\EzDelivery\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+C:\Arif\EzDelivery\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Arif\EzDelivery\BLL\obj\Release\BLL.csproj.CopyComplete
+C:\Arif\EzDelivery\BLL\obj\Release\BLL.dll
+C:\Arif\EzDelivery\BLL\obj\Release\BLL.pdb

@@ -1,0 +1,16 @@
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\bin\Debug\BOL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\bin\Debug\BOL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\obj\Debug\BOL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\obj\Debug\BOL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+E:\ezApi\EzDelivery\BOL\bin\Debug\BOL.dll
+E:\ezApi\EzDelivery\BOL\bin\Debug\BOL.pdb
+E:\ezApi\EzDelivery\BOL\obj\Debug\BOL.dll
+E:\ezApi\EzDelivery\BOL\obj\Debug\BOL.pdb
+C:\Arif\EzDelivery\BOL\bin\Debug\BOL.dll
+C:\Arif\EzDelivery\BOL\bin\Debug\BOL.pdb
+C:\Arif\EzDelivery\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Arif\EzDelivery\BOL\obj\Debug\BOL.dll
+C:\Arif\EzDelivery\BOL\obj\Debug\BOL.pdb
+C:\Arif\EzDelivery\BOL\obj\Debug\BOL.csprojAssemblyReference.cache

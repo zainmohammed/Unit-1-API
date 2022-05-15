@@ -1,0 +1,12 @@
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\bin\Release\BOL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\bin\Release\BOL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\obj\Release\BOL.csprojAssemblyReference.cache
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\obj\Release\BOL.csproj.CoreCompileInputs.cache
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\obj\Release\BOL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\BOL\obj\Release\BOL.pdb
+C:\Arif\EzDelivery\BOL\bin\Release\BOL.dll
+C:\Arif\EzDelivery\BOL\bin\Release\BOL.pdb
+C:\Arif\EzDelivery\BOL\obj\Release\BOL.csprojAssemblyReference.cache
+C:\Arif\EzDelivery\BOL\obj\Release\BOL.csproj.CoreCompileInputs.cache
+C:\Arif\EzDelivery\BOL\obj\Release\BOL.dll
+C:\Arif\EzDelivery\BOL\obj\Release\BOL.pdb

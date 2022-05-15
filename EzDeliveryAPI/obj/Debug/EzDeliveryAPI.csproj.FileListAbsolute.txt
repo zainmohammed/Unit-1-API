@@ -1,0 +1,177 @@
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\csc.exe
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\csc.exe.config
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\csc.rsp
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\csi.exe
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\csi.rsp
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\System.AppContext.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\vbc.exe
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\vbc.exe.config
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\vbc.rsp
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\VBCSCompiler.exe
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\EzDeliveryAPI.dll.config
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\EzDeliveryAPI.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\EzDeliveryAPI.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\BLL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\BOL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\DAL.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\EntityFramework.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\EntityFramework.SqlServer.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\Newtonsoft.Json.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\System.Net.Http.Formatting.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\System.Web.Cors.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.Cors.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.WebHost.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\BLL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\BOL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\DAL.pdb
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\DAL.dll.config
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\EntityFramework.xml
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\EntityFramework.SqlServer.xml
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\System.Net.Http.Formatting.xml
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.xml
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.Cors.xml
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\Newtonsoft.Json.xml
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.WebHost.xml
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.csprojAssemblyReference.cache
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.csproj.CoreCompileInputs.cache
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.csproj.CopyComplete
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.dll
+C:\Arif\Markabah Admin UI\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.pdb
+E:\ezApi\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.csprojResolveAssemblyReference.cache
+E:\ezApi\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.pdb
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\csc.exe
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\csc.exe.config
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\csc.rsp
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\csi.exe
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\csi.rsp
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\System.AppContext.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\vbc.exe
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\vbc.exe.config
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\vbc.rsp
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\VBCSCompiler.exe
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\EzDeliveryAPI.dll.config
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\EzDeliveryAPI.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\EzDeliveryAPI.pdb
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\BLL.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\BOL.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\DAL.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\EntityFramework.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\EntityFramework.SqlServer.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\Newtonsoft.Json.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\Plivo.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\RestSharp.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\System.Net.Http.Formatting.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\System.Web.Cors.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.Cors.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.WebHost.dll
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\BLL.pdb
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\BOL.pdb
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\DAL.pdb
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\EntityFramework.xml
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\EntityFramework.SqlServer.xml
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\Newtonsoft.Json.xml
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\RestSharp.xml
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\System.Net.Http.Formatting.xml
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.xml
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.Cors.xml
+E:\ezApi\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.WebHost.xml
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\csc.exe
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\csc.exe.config
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\csc.rsp
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\csi.exe
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\csi.rsp
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\System.AppContext.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\vbc.exe
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\vbc.exe.config
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\vbc.rsp
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\VBCSCompiler.exe
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\EzDeliveryAPI.dll.config
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\EzDeliveryAPI.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\EzDeliveryAPI.pdb
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\BLL.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\BOL.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\DAL.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\EntityFramework.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\EntityFramework.SqlServer.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\Newtonsoft.Json.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\Plivo.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\RestSharp.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\System.Net.Http.Formatting.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\System.Web.Cors.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.Cors.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.WebHost.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\BLL.pdb
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\BOL.pdb
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\DAL.pdb
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\DAL.dll.config
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\EntityFramework.xml
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\EntityFramework.SqlServer.xml
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\Newtonsoft.Json.xml
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\RestSharp.xml
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\System.Net.Http.Formatting.xml
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.xml
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.Cors.xml
+C:\Arif\EzDelivery\EzDeliveryAPI\bin\System.Web.Http.WebHost.xml
+C:\Arif\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.csprojAssemblyReference.cache
+C:\Arif\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.csproj.CoreCompileInputs.cache
+C:\Arif\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.csproj.CopyComplete
+C:\Arif\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.dll
+C:\Arif\EzDelivery\EzDeliveryAPI\obj\Debug\EzDeliveryAPI.pdb
